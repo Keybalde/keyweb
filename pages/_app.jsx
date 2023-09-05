@@ -20,14 +20,14 @@ export default function AwardApp({ Component, pageProps }) {
   const NavItems = [
     {
       link: true,
-      name: "Home",
+      name: "Ana Sayfa",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
       href: "/",
     },
     {
       link: true,
-      name: "Support",
+      name: "Destek",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
       href: "https://discord.gg/ZcDprCrFTn",
@@ -48,7 +48,7 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Partners",
+      name: "Partner",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
