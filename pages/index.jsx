@@ -57,7 +57,7 @@ Vote Keyblade BDFD</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">1 bdfd botu çok hata verir ama Keyblade BDFD nin optimazasyonu çok iyi olup daha az hata vermektedir.</p>
+                  <p className="text-gray-500 line-clamp-4">Bdfd botları çok hata verir ama Keyblade BDFD nin optimazasyonu çok iyi olup daha az hata vermektedir.</p>
                 </div>
               </div>
               <div>
@@ -75,7 +75,7 @@ Vote Keyblade BDFD</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
-                  <p className="text-gray-500 line-clamp-4"7/24 Destek sistemleri gelecektir ama şuan bile botun üzerindeki şikayet komutuyla destek alabilirsiniz.</p>
+                  <p className="text-gray-500 line-clamp-4"></p>Destek sistemleri gelecektir ama şuan bile botun üzerindeki şikayet komutuyla destek alabilirsiniz.</p>
                 </div>
               </div>
           </div>
