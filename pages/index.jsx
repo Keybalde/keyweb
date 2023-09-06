@@ -13,7 +13,7 @@ export default function Index() {
           Keyblade Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       En iyi bdfd botlarından biri olan Keybalde BDFD sizin sayenizde büyüdü ve tik aldı. Hepinize teşşekürlerimizi iletiyoruz. 
+       En iyi bdfd botlarından biri olan Keybalde BDFD sizin sayenizde büyüdü ve tik aldı.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -56,7 +56,7 @@ Vote Keyblade BDFD</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
                   <p className="text-gray-500 line-clamp-4">1 bdfd botu çok hata verir ama Keyblade BDFD nin optimazasyonu çok iyi olup daha az hata vermektedir.</p>
                 </div>
               </div>
@@ -74,7 +74,7 @@ Vote Keyblade BDFD</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
                   <p className="text-gray-500 line-clamp-4"7/24 Destek sistemleri gelecektir ama şuan bile botun üzerindeki şikayet komutuyla destek alabilirsiniz.</p>
                 </div>
               </div>
