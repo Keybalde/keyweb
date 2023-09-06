@@ -68,7 +68,7 @@ Vote Keyblade BDFD</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenlik</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
                   <p className="text-gray-500 line-clamp-4">Botun içinde patlatma gibi yada developer komutlarına erişmek gibi kimsede yetki olmadığından bot güvenliklidir.</p>
                 </div>
               </div>
