@@ -72,6 +72,12 @@ export default function Footer() {
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
+                                       </Link>
+                            </div>
+                            <div>
+                                <Link href="https://github.com/1umutda/MusicBot">
+                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    <i className={`fa-brands fa-instagram`} /> İnstagram
                                 </Link>
                             </div>
                             <div>
