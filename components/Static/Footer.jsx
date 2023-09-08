@@ -75,7 +75,7 @@ export default function Footer() {
                                  </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
+                                <Link href="https://instagram.com/keyblade_dev?utm_source=qr&igshid=MThlNWY1MzQwNA==">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-instagram`} /> İnstagram
                                     </a>
