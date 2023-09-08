@@ -56,8 +56,8 @@ Vote Keyblade BDFD</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Astra gives you a musical pleasure to the fullest.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
+                  <p className="text-gray-500 line-clamp-4">Bi bdfd botu çok hata verir fakat Keyblade BDFD daha az hata vermek için optimize edildi.</p>
                 </div>
               </div>
               <div>
