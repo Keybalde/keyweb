@@ -48,7 +48,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://top.gg/bot/1096736371172982867/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Oy Ver
                                     </a>
