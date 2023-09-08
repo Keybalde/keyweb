@@ -50,18 +50,18 @@ export default function Footer() {
                             <div>
                                 <Link href="https://bit.ly/3LYzaDe">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Oy Ver
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                    Destek Sunucusu
                                 </a>
                             </div>
                             <div>
                                 <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                    Botu Ekle
                                 </a>
                             </div>
                         </div>
