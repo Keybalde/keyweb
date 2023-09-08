@@ -16,9 +16,9 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MusicMaker" />
           <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta property="og:url" content="https://keyweb.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Keyblade BDFD" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="En güzel bdfd botuna ait."
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="MusicMaker" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="Keyblade BDFD"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
