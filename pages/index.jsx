@@ -62,12 +62,6 @@ Vote Keyblade BDFD</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
-                </div>
-              </div>
-              <div>
-                <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
                   <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
                 </div>
