@@ -27,7 +27,7 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://top.gg/bot/1096736371172982867/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Keyblade BDFD</a>
   </Link>
